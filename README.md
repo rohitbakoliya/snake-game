@@ -2,4 +2,4 @@
 Classical snake game using vanilla javascript
 
 
-![snake game screenshot](https://github.com/rohitbakoliya/snake-game/master/Images/Screenshot.png)
+![snake game screenshot](https://github.com/rohitbakoliya/snake-game/blob/master/Images/Screenshot.png)
