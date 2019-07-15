@@ -1,0 +1,15 @@
+#canvas{
+    background-color: #3e3e3e;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#score{
+	border: 1px solid green;
+	border-radius: 6px;
+	margin-left: 0px;
+	width: 300px;
+	text-align: center;
+	padding: 10px;
+}
